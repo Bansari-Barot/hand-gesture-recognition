@@ -59,7 +59,7 @@ Hand gesture recognition - machine learning model using keras, numpy and openCV
  * Launch Jupyter Notebook   
 
 ## Dataset
-* Download dataset from this link -
+* Download dataset from this link - https://drive.google.com/drive/folders/1KaWRF7ZavqKsX5AmD0-9XHOwpaASMxQq?usp=sharing
 * Dataset is divided in two parts: Training data and Test data
 
 ## Running the model
